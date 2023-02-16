@@ -6,5 +6,7 @@ int main(){
 
     std::cout << "Fix";
 
+    std::cout << "Feature";
+
     return 0;
 }
